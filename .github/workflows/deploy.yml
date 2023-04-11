@@ -24,5 +24,4 @@ jobs:
           HD_BIN_CHANNEL: ${{secrets.HD_BIN_CHANNEL}}
           HD_BIN_CHANNEL_WITHOUT_MINUS: ${{secrets.HD_BIN_CHANNEL_WITHOUT_MINUS}}
           HD_PORT: ${{secrets.HD_PORT}}
-          HD_HAS_SSL: ${{secrets.HD_HAS_SSL}}
-          
+          HD_HAS_SSL: ${{secrets.HD_HAS_SSL}}          
